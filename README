@@ -1,5 +1,11 @@
-9Himikaturu
-=============
+9Scoop By Himikaturu
+---------------------
 
-What is this repo? 
-I'm using scoop a package manager for windows, and i made my own scoop bucket
+I'm using scoop, a package manager for windows, and I made my own personal scoop bucket for fun
+
+Add this to your scoop bucket
+scoop bucket add 9Scoop https://github.com/Himikat9/9Scoop
+
+This repo is private for the meantime.
+
+Himikat9/9Scoop Is Licensed Under the Creative Commons Zero v1.0 Universal
