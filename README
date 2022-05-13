@@ -4,8 +4,6 @@
 I'm using scoop, a package manager for windows, and I made my own personal scoop bucket for fun
 
 Add this to your scoop bucket
-scoop bucket add 9Scoop https://github.com/Himikat9/9Scoop
-
-This repo is private for the meantime.
+$ scoop bucket add 9Scoop https://github.com/Himikat9/9Scoop
 
 Himikat9/9Scoop Is Licensed Under the Creative Commons Zero v1.0 Universal
